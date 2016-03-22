@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AboutActivity.cs" />
     <Compile Include="Adapter\HotDogListAdapter.cs" />
     <Compile Include="HotDogDetailActivity.cs" />
     <Compile Include="HotDogMenuActivity.cs" />
@@ -72,6 +73,9 @@
       <SubType>AndroidResource</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\MainMenu.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\AboutView.axml">
       <SubType>AndroidResource</SubType>
     </AndroidResource>
   </ItemGroup>

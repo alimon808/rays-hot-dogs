@@ -43,6 +43,13 @@ namespace RaysHotDogs
         private void HandleEvents()
         {
             orderButton.Click += OrderButton_Click;
+            aboutButton.Click += AboutButton_Click;
+        }
+
+        private void AboutButton_Click(object sender, EventArgs e)
+        {
+            var intent = new Intent(this, typeof(AboutActivity));
+            StartActivity(intent);
         }
 
         private void OrderButton_Click(object sender, EventArgs e)
