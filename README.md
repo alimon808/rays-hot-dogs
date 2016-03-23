@@ -15,3 +15,8 @@
 - map of store location
 - take a selfie with Ray
 
+## Requirements
+- [Visual Studio 2015 Community Edition] (https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx) - free
+- [Xamarin Business] (https://developer.xamarin.com/guides/cross-platform/getting_started/beginning_a_xamarin_trial/) - 30 day trial
+
+
