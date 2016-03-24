@@ -551,17 +551,23 @@ namespace RaysHotDogs
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f050020
-			public const int ApplicationName = 2131034144;
-			
 			// aapt resource value: 0x7f05001f
 			public const int Hello = 2131034143;
+			
+			// aapt resource value: 0x7f050025
+			public const int aboutButtonText = 2131034149;
+			
+			// aapt resource value: 0x7f050020
+			public const int app_name = 2131034144;
 			
 			// aapt resource value: 0x7f050001
 			public const int auth_google_play_services_client_facebook_display_name = 2131034113;
 			
 			// aapt resource value: 0x7f050000
 			public const int auth_google_play_services_client_google_display_name = 2131034112;
+			
+			// aapt resource value: 0x7f050022
+			public const int cartButtonText = 2131034146;
 			
 			// aapt resource value: 0x7f050018
 			public const int common_google_play_services_api_unavailable_text = 2131034136;
@@ -649,6 +655,15 @@ namespace RaysHotDogs
 			
 			// aapt resource value: 0x7f05001e
 			public const int common_signin_button_text_long = 2131034142;
+			
+			// aapt resource value: 0x7f050024
+			public const int mapButtonText = 2131034148;
+			
+			// aapt resource value: 0x7f050021
+			public const int orderButtonText = 2131034145;
+			
+			// aapt resource value: 0x7f050023
+			public const int takePictureButtonText = 2131034147;
 			
 			static String()
 			{

@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="Hello">Hello World, Click Me!</string>
-    <string name="ApplicationName">RaysHotDogs</string>
+  <string name="Hello">Hello World, Click me!</string>
+  <string name="app_name">Ray\'s Hot Dogs</string>
+  <string name="orderButtonText">Order hot dogs!</string>
+  <string name="cartButtonText">View your cart</string>
+  <string name="takePictureButtonText">Take a picture with Ray</string>
+  <string name="mapButtonText">Go to Ray\'s store</string>
+  <string name="aboutButtonText">About Ray\'s Hot Dogs</string>
 </resources>
